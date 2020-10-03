@@ -23,6 +23,6 @@
 - Convert live video feed from webcam to grayscale.
 - Generate coloured image from a grayscale image & then extend this to video feeds.
 
-#### References
+### References
 - https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html
 - https://github.com/jantic/DeOldify.git

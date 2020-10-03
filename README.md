@@ -1,7 +1,7 @@
 ## Optimizing-Video-Sessions-for-Poor-Connectivity-issues
 
--This project aims to develop a solution for optimizing video sessions for poor connectivity issues, using Video Processing techniques.
--This would greatly help teachers and students have a smooth teaching-learning experience.
+- This project aims to develop a solution for optimizing video sessions for poor connectivity issues, using Video Processing techniques.
+- This would greatly help teachers and students have a smooth teaching-learning experience.
 
 ### Proposed system for enhancing video sessions
 
